@@ -1,0 +1,7 @@
+tweet
+
+<blockquote data-theme='dark' class="twitter-tweet"><p lang="en" dir="ltr">President Biden is set to deliver a speech about the next steps in the U.S. vaccination effort <a href="https://t.co/cNlfO88ITw">https://t.co/cNlfO88ITw</a></p>&mdash; Bloomberg (@business) <a href="https://twitter.com/business/status/1448683044358037506?ref_src=twsrc%5Etfw">October 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+profile
+
+<a class="twitter-timeline" data-width="224" data-height="213" data-theme="dark" href="https://twitter.com/OfficialPCMR?ref_src=twsrc%5Etfw">Tweets by OfficialPCMR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
